@@ -1,5 +1,31 @@
-# GitHub Codespaces ♥️ Flask
+# :package: Flask Project Template
+## Team:
+* Team memeber 01 Name 
+* Team memeber 02 Name 
 
+
+## Project Description:
+The project is a web application template that serves as a starting point for building robust web apps. It includes essential features such as a responsive user interface, user authentication, and database integration.
+
+## Features
+* Responsive user interface designed for various screen sizes and devices
+* User authentication and authorization
+* Database integration for data storage and retrieval
+* [Add any other relevant features here]
+
+## Installation
+[Add installation instructions here]
+
+## Usage
+[Add usage instructions here]
+
+## Contributing
+[Add contribution guidelines here]
+
+## License
+[Add license information here]
+
+# GitHub Codespaces ♥️ Flask
 Welcome to your shiny new Codespace running Flask! We've got everything fired up and running for you to explore Flask.
 
 You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
