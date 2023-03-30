@@ -25,7 +25,9 @@ The project is a web application template that serves as a starting point for bu
 ## License
 [Add license information here]
 
-# GitHub Codespaces ♥️ Flask
+## Notes
+
+## GitHub Codespaces ♥️ Flask
 Welcome to your shiny new Codespace running Flask! We've got everything fired up and running for you to explore Flask.
 
 You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
@@ -37,3 +39,8 @@ To run this application:
 ```
 flask --debug run
 ```
+
+## :link: Additional resources
+* [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Uploading Files with Flask](https://blog.miguelgrinberg.com/post/handling-file-uploads-with-flask)
+* [Uploading Files + Form Data](https://betterprogramming.pub/how-to-send-form-data-with-files-using-pythons-flask-and-dropzone-js-855b0ef8f000)
